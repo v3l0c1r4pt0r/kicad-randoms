@@ -9,6 +9,7 @@ Random footprints for KiCAD
 3. **U254-05XX-4BH81** - XKB Micro USB connector
 4. **U254-05XX-4BH83** - XKB Micro USB connector [**UNTESTED**]
 5. **206A-SEAN-R03** - Attend HDMI female connector
+6. **PTS840 PM SMTR LFS** - vertical SMD tact switch
 
 ## Licensing
 
