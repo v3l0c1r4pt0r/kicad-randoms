@@ -6,11 +6,11 @@ Random footprints for KiCAD
 
 Manufacturer | Footprint           | Description                        | Image | DS
 -------------|---------------------|------------------------------------|-------|----
-UDE Corp.    | **RB1-2S5BAK1A**    | 10/100/1000 Base-T RJ-45 connector |       |
-SOFNG        | **TF-015**          | Micro SD connector                 |       |
+UDE Corp.    | **RB1-2S5BAK1A**    | 10/100/1000 Base-T RJ-45 connector |       | [DS](https://www.lcsc.com/datasheet/lcsc_datasheet_1912111437_UDE-Corp-RB1-2S5BAK1A_C363232.pdf)
+SOFNG        | **TF-015**          | Micro SD connector                 |       | [DS](https://www.lcsc.com/datasheet/lcsc_datasheet_2112221030_SOFNG-TF-015_C113206.pdf)
 XKB          | **U254-05XX-4BH81** | Micro USB connector                |       |
 XKB          | **U254-05XX-4BH83** | Micro USB connector [**UNTESTED**] |       |
-Attend       | **206A-SEAN-R03**   | HDMI female connector              |       |
+Attend       | **206A-SEAN-R03**   | HDMI female connector              |       | [DS](https://www.tme.eu/Document/f15dffbcfad8545e17826f72d36911c8/206A-SEAN-R03.pdf)
 
 ## Licensing
 
