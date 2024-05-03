@@ -12,6 +12,7 @@ Random footprints for KiCAD
 6. **PTS840 PM SMTR LFS** - vertical SMD tact switch
 7. **GSB416445CHR** - Amphenol USB 3.1 A connector
 8. **VN02A1500000G** - Amphenol 2.54mm 3-pin screw terminal
+9. **CM1210A204R-1A** - Laird common mode choke
 
 ## Licensing
 
